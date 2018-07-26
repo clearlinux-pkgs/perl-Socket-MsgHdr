@@ -4,12 +4,12 @@
 #
 Name     : perl-Socket-MsgHdr
 Version  : 0.04
-Release  : 1
+Release  : 2
 URL      : https://cpan.metacpan.org/authors/id/M/MJ/MJP/Socket-MsgHdr-0.04.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MJ/MJP/Socket-MsgHdr-0.04.tar.gz
 Summary  : sendmsg, recvmsg and ancillary data operations
 Group    : Development/Tools
-License  : This dual-licensed is just software the under
+License  : Artistic-1.0-Perl GPL-1.0+
 Requires: perl-Socket-MsgHdr-lib
 Requires: perl-Socket-MsgHdr-man
 BuildRequires : buildreq-cpan
