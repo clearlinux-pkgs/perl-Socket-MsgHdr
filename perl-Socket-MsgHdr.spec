@@ -4,7 +4,7 @@
 #
 Name     : perl-Socket-MsgHdr
 Version  : 0.05
-Release  : 10
+Release  : 11
 URL      : https://cpan.metacpan.org/authors/id/F/FE/FELIPE/Socket-MsgHdr-0.05.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/F/FE/FELIPE/Socket-MsgHdr-0.05.tar.gz
 Summary  : 'sendmsg, recvmsg and ancillary data operations'
@@ -24,6 +24,7 @@ Summary: dev components for the perl-Socket-MsgHdr package.
 Group: Development
 Requires: perl-Socket-MsgHdr-lib = %{version}-%{release}
 Provides: perl-Socket-MsgHdr-devel = %{version}-%{release}
+Requires: perl-Socket-MsgHdr = %{version}-%{release}
 
 %description dev
 dev components for the perl-Socket-MsgHdr package.
