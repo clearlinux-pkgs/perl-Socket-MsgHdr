@@ -7,7 +7,7 @@
 #
 Name     : perl-Socket-MsgHdr
 Version  : 0.05
-Release  : 29
+Release  : 30
 URL      : https://cpan.metacpan.org/authors/id/F/FE/FELIPE/Socket-MsgHdr-0.05.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/F/FE/FELIPE/Socket-MsgHdr-0.05.tar.gz
 Summary  : 'sendmsg, recvmsg and ancillary data operations'
